@@ -1,11 +1,11 @@
 # UFOs_challenge
 
-#### Project Overview 
+### Project Overview 
 
 In this project, we are focus on building a dynamic webpage that accepts user inputs and adjusts accordingly to display information about UFO sightings.
 In order to perform their analysis, we will be able to filter the UFO sightings table based on multiple criteria such as the event date, city, state, country and shape.
 
-#### Results 
+### Results 
 
 This is the initial page. The user can re-initialize the page by clicking on the navbar at the top.
 
@@ -33,7 +33,7 @@ The user enters the desired country, the change is detected and the table is upd
 
 All filter parameters can be entered simultaneously.
 
-#### Summary:
+### Summary:
 
 Drawbacks: 
 
