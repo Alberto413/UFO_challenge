@@ -11,22 +11,22 @@ This is the initial page. The user can re-initialize the page by clicking on the
 
 <img width="1429" alt="Screen Shot 2022-03-28 at 12 24 04 PM" src="https://user-images.githubusercontent.com/95304774/160443457-a3a3ff49-2083-48c1-9dd9-bed93e08d012.png">
 
-###### Filtering by event date
+##### Filtering by event date
 The user enters the desired date, the change is detected and the table is updated accordingly.
 
 <img width="1429" alt="Screen Shot 2022-03-28 at 12 25 01 PM" src="https://user-images.githubusercontent.com/95304774/160443637-2f9d7d88-59b6-4b0f-88e7-a4763d95d2a0.png">
 
-###### Filtering by city
+##### Filtering by city
 The user enters the desired city, the change is detected and the table is updated accordingly.
 
 <img width="1429" alt="Screen Shot 2022-03-28 at 12 26 57 PM" src="https://user-images.githubusercontent.com/95304774/160443979-e23dc9cd-fd31-43ad-a909-785b2a91fc15.png">
 
-###### Filtering by state and shape
+##### Filtering by state and shape
 The user enters the desired state and shape observed, the changes are detected and the table is updated accordingly.
 
 <img width="1429" alt="Screen Shot 2022-03-28 at 12 30 18 PM" src="https://user-images.githubusercontent.com/95304774/160444550-952e97aa-1440-4c34-b93a-2ea8b37c5ed6.png">
 
-###### Filtering by country
+##### Filtering by country
 The user enters the desired country, the change is detected and the table is updated accordingly.
 
 <img width="1429" alt="Screen Shot 2022-03-28 at 12 31 42 PM" src="https://user-images.githubusercontent.com/95304774/160444762-1c687056-337f-4fb8-8bbf-ec68a1e25e88.png">
