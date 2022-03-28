@@ -1,4 +1,4 @@
-# UFO_challenge
+# UFOs_challenge
 
 #### Project Overview 
 
@@ -37,7 +37,7 @@ All filter parameters can be entered simultaneously.
 
 Drawbacks: 
 
-* One drawback of this design is the difficulty for the user to know what parameter to use for the filtering. For example to pick a city, the user would have to go through the table a find the city desired for the analysis. The filter method is case sensitive. Therefore if a user entered any items in upper case, the search results would not return properly.
+* One drawback of this design is the difficulty for the user to know what parameter to use for the filtering. For example to pick a city, the user would have to go through the table a find the city desired for the analysis. Also, the filter method is case sensitive. Therefore if a user entered any items in upper case, the search results would not return properly.
 
 Recommendations:
 
